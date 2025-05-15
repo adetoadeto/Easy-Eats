@@ -75,8 +75,8 @@ nav .desktop-navbar {
     gap: 40px;
 }
 nav .desktop-navbar li :hover{
-    text-decoration: underline #9c702a;
-    color: #9c702a;
+    text-decoration: underline orange;
+    color: orange;
 }
 
 nav .hamburger-icon {
